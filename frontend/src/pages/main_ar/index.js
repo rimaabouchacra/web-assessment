@@ -1,10 +1,13 @@
-import AboutUs from "../../components/testt/test"
-
-const Testt=()=>{
+import Definition from "../../components/definition";
+import Header from "../../components/header";
+import Navbar from "../../components/nav"
+const Main=()=>{
     return(
         <div>
-            <AboutUs/>
+          <Navbar/>
+          <Header/>
+          <Definition/>
         </div>
     )
 }
-export default Testt
+export default Main;

@@ -1,0 +1,17 @@
+.def-text{
+    margin: 1rem;
+    padding: 1rem;
+    border-left: 3px solid #E1A915;
+
+}
+
+
+.icon {
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+.definition-item {
+    display: flex;
+    align-items: center;
+}
