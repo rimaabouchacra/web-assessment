@@ -63,7 +63,30 @@ const Judgment = () => {
           <Typography variant="body2">As of the date of issuance of the judgment.</Typography>
         </div>
       </div>
+    </div><br/>
+
+    <div className="search-item">
+        <img src={quote} alt="icon" className="icon-quote" />
+        <Typography variant="h5" fontWeight='bold'>
+         Decision on revoking or accepting the defenses stated in Article 73 of the
+         Criminal Procedures Code:
+        </Typography>
+      </div><br />
+
+      <div className='decision'>
+        <div className="row1">
+      <div className="component1">
+        <h3>With respect to the Public Prosecution, the delay is 24 hours:</h3>
+        <div className="content1">As of the date of issuance of the decision.</div>
+      </div>
+      <div className="component1">
+        <h3>With respect to the opponents, the delay is 24 hours:</h3>
+        <div className="content1">As of the date of notifying the opponents of the same.</div>
+      </div>
+      </div>
+ 
     </div>
+
     </div>
   );
 };
