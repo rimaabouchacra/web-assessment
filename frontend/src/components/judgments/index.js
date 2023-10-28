@@ -72,20 +72,48 @@ const Judgment = () => {
          Criminal Procedures Code:
         </Typography>
       </div><br />
-
+      
+      <div className='lawyer'>
+        <Typography variant="body1" fontWeight='bold'>
+         The appeal shall be submitted through a lawyer.
+        </Typography>
+      </div>
       <div className='decision'>
-        <div className="row1">
-      <div className="component1">
-        <h3>With respect to the Public Prosecution, the delay is 24 hours:</h3>
-        <div className="content1">As of the date of issuance of the decision.</div>
+             <div className="component1">
+                <h3>With respect to the Public Prosecution, the delay is 24 hours:</h3>
+                <div className="content1">As of the date of issuance of the decision.</div>
+            </div>
+            <div className="component1">
+               <h3>With respect to the opponents, the delay is 24 hours:</h3>
+               <div className="content1">As of the date of notifying the opponents of the same.</div>
+            </div>
+     
       </div>
-      <div className="component1">
-        <h3>With respect to the opponents, the delay is 24 hours:</h3>
-        <div className="content1">As of the date of notifying the opponents of the same.</div>
+      
+      {/* <div className='option'>
+        <Typography variant="body1" fontWeight='bold'>
+         Decision of the Court of Appeal
+        </Typography>
+        
+      </div> */}
+      <div className="centered-container">
+      
+      
+      <div className="option">
+        <Typography variant="body1" fontWeight='bold'>Decision of the Court of Appeal</Typography>
+      </div><br />
+      <div className="options">
+        <div className="option1">
+        <Typography variant="body1">Dissolution of the appealed judgment.</Typography>
+      </div><br />
+
+      <div className="option1">
+        <Typography variant="body1">Legalization of the appealed judgment.</Typography>
+      </div><br />
       </div>
-      </div>
- 
     </div>
+      
+
 
     </div>
   );
