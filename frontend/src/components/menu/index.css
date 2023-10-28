@@ -1,0 +1,35 @@
+.tab {
+    margin-right: 6rem;
+    /* Margin on the right side (adjust the value as needed) */
+}
+
+.tab:last-child {
+    margin: 0;
+    /* Remove margin from the last tab */
+}
+.menu-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .menu-bar {
+        max-width: 100%;
+        gap: 2rem;
+    }
+
+}
+
+@media only screen and (max-width: 490px) {
+    .menu-bar {
+        max-width: 100%;
+        gap: 1.5rem;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+}

@@ -4,8 +4,8 @@ import './index.css'
 const Header = () => {
 return(
 
-    <div className='headerr'>
-        <img src={header} alt="header" />
+    <div>
+        <img className='headerr' src={header} alt="header" />
     </div>
 )
 }
