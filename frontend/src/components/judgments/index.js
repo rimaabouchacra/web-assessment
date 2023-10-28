@@ -1,6 +1,7 @@
 import React from 'react';
 import Typography from '@mui/material/Typography';
 import note from '../../images/note.png';
+import quote from '../../images/quote.png';
 import './index.css';
 import clock from '../../images/clock.png'
 
@@ -31,6 +32,7 @@ const Judgment = () => {
       </div><br />
 
       <div className="search-item">
+        <img src={quote} alt="icon" className="icon-quote" />
         <Typography variant="h5" fontWeight='bold'>
           Final judgments:
         </Typography>
