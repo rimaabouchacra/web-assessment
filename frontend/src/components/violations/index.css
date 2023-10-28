@@ -6,12 +6,17 @@
     margin-top: 0;
 }
 
+.violation{
+    border-left: 3px solid #D78B48;
+    margin-left: 1rem;
+}
+
 .boxx {
     display: flex;
     align-items: center;
     justify-content: flex-start;
     border-radius: 100px;
-    width: 700px;
+    width: 790px;
     border: 2px solid #D78B48;
     border-left: 0;
 }

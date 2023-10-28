@@ -7,7 +7,7 @@ import './index.css';
 const Violation = () => {
   return (
 
-    <div id='violation-section'>
+    <div id='violations-section' className='violation'>
         <div className='title'>
             <Typography variant="h3">
               Violations
