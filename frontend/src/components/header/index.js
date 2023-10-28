@@ -4,7 +4,7 @@ import './index.css'
 const Header = () => {
 return(
 
-    <div>
+    <div className='header-section'>
         <img className='headerr' src={header} alt="header" />
     </div>
 )

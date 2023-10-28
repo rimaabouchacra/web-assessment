@@ -1,9 +1,10 @@
 .headerr {
     overflow-x: hidden;
-    margin-bottom: 2rem;
 }
 
-
+.header-section{
+    margin-bottom: 2rem;
+}
 
 @media only screen and (max-width: 768px) {
     .headerr {
