@@ -38,7 +38,7 @@ const Violation = () => {
                <div className='boxx'>
                  <div className='circle'>2</div>
                    <Box>
-                    <Typography variant="body2" component="div" className='textt'>
+                    <Typography variant="body2" component="div" fontWeight="bold">
                      Additional or secondary penalty or personal compensations of more than five hundred thousand Lebanese pounds.
                     </Typography>
                   </Box>
