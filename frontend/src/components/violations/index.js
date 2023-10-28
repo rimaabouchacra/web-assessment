@@ -17,7 +17,7 @@ const Violation = () => {
         <div className="search-item">
         <img src={search} alt="arrow" className="icon-search" />
         <Typography variant="body1">
-          The Court of Appeal considers the appeal of the judgments issued by the Criminal Single Judge in the cases of violations, provided that they shall be on:
+          The Court of Appeal considers the appeal of the judgments issued by the Criminal Single Judge in the <br /> cases of violations, provided that they shall be on:
         </Typography>
       </div><br />
         <div content-img>
@@ -39,7 +39,7 @@ const Violation = () => {
                  <div className='circle'>2</div>
                    <Box>
                     <Typography variant="body2" component="div" className='textt'>
-                     Additional or secondary penalty or personalcompensationsof more than five hundred thousand Lebanese pounds.
+                     Additional or secondary penalty or personal compensations of more than five hundred thousand Lebanese pounds.
                     </Typography>
                   </Box>
                 </div>
