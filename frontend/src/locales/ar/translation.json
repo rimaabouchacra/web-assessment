@@ -50,7 +50,10 @@
   "judgment.delayOpponentsDetails": ".من تاريخ تبليغه للخصوم",
   "judgment.decisionCourtAppeal": "قرارات المحكمة الاستئنافية",
   "judgment.dissolution": ".فسخ الحكم المستأنف",
-  "judgment.legalization": ".تصديق الحكم المستأنف"
+  "judgment.legalization": ".تصديق الحكم المستأنف",
+
+  "footer.copyright": "\u00A9 {{year}} محكمة الاستئناف الجزائية. جميع الحقوق محفوظة"
+
 
 
   

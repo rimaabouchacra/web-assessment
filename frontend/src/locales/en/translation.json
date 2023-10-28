@@ -48,5 +48,10 @@
   "judgment.delayOpponentsDetails": "From the date of notifying the opposing parties.",
   "judgment.decisionCourtAppeal": "Decision of the Court of Appeal",
   "judgment.dissolution": "Dissolution of the appealed judgment.",
-  "judgment.legalization": "Legalization of the appealed judgment."
+  "judgment.legalization": "Legalization of the appealed judgment.",
+
+  "footer.copyright": "\u00A9 {{year}} Criminal Court of Appeal. All Rights Reserved."
+  
+
+
 }
