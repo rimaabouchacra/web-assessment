@@ -1,9 +1,8 @@
 import React from 'react';
 import Typography from '@mui/material/Typography';
-import note from "../../images/note.png";
+import note from '../../images/note.png';
 import './index.css';
-import Grid from '@mui/material/Grid';
-import Paper from '@mui/material/Paper';
+import clock from '../../images/clock.png'
 
 const Judgment = () => {
 
@@ -21,6 +20,19 @@ const Judgment = () => {
           The Court of Appeal is entitled, when exercising its tasks, to listen to witnesses, interrogate
           the parties of the lawsuit, invite new witnesses, <br /> appoint an expert, listen to experts and carry
           out any new investigations it deems appropriate...
+        </Typography>
+      </div><br />
+
+      <div className="search-item">
+        <img src={clock} alt="icon" className="icon-note clock" />
+        <Typography fontWeight='bold' classes={{ root: 'custom-typography' }}>
+          Delay of appeal:
+        </Typography>
+      </div><br />
+
+      <div className="search-item">
+        <Typography variant="h5" fontWeight='bold'>
+          Final judgments:
         </Typography>
       </div><br />
 
