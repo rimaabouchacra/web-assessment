@@ -5,7 +5,7 @@ import './index.css';
 
 const Jurisdiction = () => {
   return (
-    <div>
+    <div id='jurisdiction-section'>
      <div className='title'>
         <Typography  variant="h3">Jurisdiction</Typography>
      </div>   
@@ -20,16 +20,23 @@ const Jurisdiction = () => {
           final judgment only. <br />
           <strong>With the exception of:</strong>
         </Typography>
-
+        <br />
         <div className="box-container">
           <div className="box">
-            <Typography variant="body2">Box 1</Typography>
+            <Typography variant="body2">
+                The appeal of decisions that settle one or more of the formal defenses stipulated in Article 73 of
+                the Criminal Procedures Code shall be accepted.
+          </Typography>
           </div>
           <div className="box">
-            <Typography variant="body2">Box 2</Typography>
+            <Typography variant="body2">
+                Decisions by which the Single Judge terminates the lawsuit without addressing its subject matter.
+            </Typography>
           </div>
           <div className="box">
-            <Typography variant="body2">Box 3</Typography>
+            <Typography variant="body2">
+                Decisions issued on accepting or revoking the release requests.
+            </Typography>
           </div>
         </div>
       </div>

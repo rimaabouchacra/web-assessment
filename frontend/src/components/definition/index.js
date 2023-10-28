@@ -1,8 +1,6 @@
 import React from 'react';
 import Typography from '@mui/material/Typography';
 import icon from "../../images/arrow.png";
-import Tabs from '@mui/material/Tabs';
-import Tab from '@mui/material/Tab';
 import './index.css';
 
 const Definition = () => {
