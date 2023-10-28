@@ -2,7 +2,14 @@
   "navbar.english": "English",
   "navbar.arabic": "Arabic",
   
-
   "header.title": "Criminal Court of Appeal",
-  "header.subtitle": "A Comprehensive Guide to the Role and Functions of the Criminal Court of Appeal."
+  "header.subtitle": "A Comprehensive Guide to the Role and Functions of the Criminal Court of Appeal.",
+
+  "menu.definition": "Definition",
+  "menu.jurisdiction": "Jurisdiction",
+  "menu.violations": "Violations",
+  "menu.judgments": "Judgments"
+  
+
+
 }

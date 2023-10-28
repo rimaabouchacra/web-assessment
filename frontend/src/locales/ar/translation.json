@@ -3,9 +3,18 @@
   "navbar.english": "الإنجليزية",
 
   "header.title_ar": "محكمة الاستئناف الجزائية",
-  "header.subtitle_ar": "دليل شامل عن دور ووظائف محكمة الاستئناف الجزائية "
+  "header.subtitle_ar": "دليل شامل عن دور ووظائف محكمة الاستئناف الجزائية ",
 
 
+  "menu.definition": "تعريف",
+  "menu.jurisdiction": "اختصاص",
+  "menu.violations": "مخالفات",
+  "menu.judgments": "أحكام"
+   
 
-
+  
 }
+
+
+
+
