@@ -60,7 +60,7 @@ const Violation = () => {
                   <div className='boxx'>
                     <div className='circle'>4</div>
                       <Box>
-                        <Typography variant="body2" component="div" className='textt'>
+                        <Typography variant="body2" component="div" fontWeight="bold">
                         Penalty for a violation correlative with a misdemeanor.
                         </Typography>
                       </Box>
