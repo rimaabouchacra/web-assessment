@@ -1,16 +1,24 @@
 import React from 'react';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
-import './index.css'; // Import your CSS file
+import './index.css'; 
 
 const Jurisdiction = () => {
   return (
-    <div className="your-section">
-      <Typography variant="h3">Section Title</Typography>
-
+    <div>
+     <div className='title'>
+        <Typography  variant="h3">Jurisdiction</Typography>
+     </div>   
+    
+    <div className="jurisdiction-section">
       <div className="bordered-section">
         <Typography variant="body1">
-          This is some descriptive text within the bordered section.
+          The Court of Appeal considers the appeal of all judgments issued by the Criminal Single Judge
+          in the cases of misdemeanors, provided that they shall have been settled in the merits of the
+          dispute.<br/>
+          However, if they were not settled in the merits of the dispute, they shall be appealed with the
+          final judgment only. <br />
+          <strong>With the exception of:</strong>
         </Typography>
 
         <div className="box-container">
@@ -26,6 +34,8 @@ const Jurisdiction = () => {
         </div>
       </div>
     </div>
+    </div>
+    
   );
 };
 
