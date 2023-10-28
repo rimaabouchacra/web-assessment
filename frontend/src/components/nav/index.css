@@ -1,5 +1,13 @@
  .nav {
-     background-color: #464C53;
+     /* background-color: #464C53; */
+     background-color: #1c2435;
      padding: 0.3rem;
  }
 
+.nav-link{
+color: #ffcc33;
+/* text-shadow: 2px 2px 8px #ffcc33; */
+padding: 0.5rem;
+border: 1px solid #ffcc33;
+/* box-shadow: 2px 2px 8px #ffcc33 ; */
+}

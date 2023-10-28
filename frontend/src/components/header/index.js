@@ -23,7 +23,7 @@ const Header = () => {
               Criminal Court of Appeal
            </Typography><br />
            <Typography name='body1'>
-              A Comprehensive Guide to the Role and Functions of <br /> the Criminal Court of Appeal
+              A Comprehensive Guide to the Role and Functions of <br /> the Criminal Court of Appeal.
            </Typography><br />
         </div>
       </div>

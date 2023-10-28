@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import logo from '../../images/logo.png'
 import './index.css'
 
-const Navbar = () => {
+const Navbar = ({ activePage }) => {
   return (
     <div>
       <AppBar position="static">
@@ -12,10 +12,10 @@ const Navbar = () => {
         <img src={logo} alt="Logo" style={{ height: 80, marginRight: 20 }} />
         <Box sx={{ flexGrow: 1 }} />
         <Button component={Link} to="/" color="inherit">
-          <Box className='nav-link'>English</Box>
+          <Box className={activePage === 'English' ? 'nav-link' : ''}>English</Box>
         </Button>
          <Button component={Link} to="/ar" color="inherit">
-          <Box className='nav-link'>Arabic</Box>
+          <Box className={activePage === 'Arabic' ? 'nav-link' : ''}>Arabic</Box>
         </Button>
       </Toolbar>
     </AppBar>

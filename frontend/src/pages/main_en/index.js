@@ -7,7 +7,7 @@ const Main=()=>{
     return(
         <div>
           
-          <Navbar/>
+          <Navbar activePage="English"/>
           <Header/>
           <MenuBar/>
           <Definition/>
