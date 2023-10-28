@@ -27,26 +27,26 @@ const Judgment = () => {
       <div className="row">
       <div className="component">
         <div className="title-box">
-          <Typography variant="h6">Component 1</Typography>
+          <Typography fontWeight='bold'>With respect to the plaintiff,defendant, responsible for money, and guarantor, the delay is 15 days:</Typography>
         </div>
         <div className="text-box">
-          <Typography variant="body2">This is the content of Component 1.</Typography>
+          <Typography variant="body2">As of the date of its issuance if it is made in presentia. As of the date of being notied whether it is made in presentia or absentia.</Typography>
         </div>
       </div>
       <div className="component">
         <div className="title-box">
-          <Typography variant="h6">Component 2</Typography>
+          <Typography fontWeight='bold'>With respect to the Appellate Public Prosecutor, the delay is one month:</Typography>
         </div>
         <div className="text-box">
-          <Typography variant="body2">This is the content of Component 2.</Typography>
+          <Typography variant="body2">As of the date of issuance of the judgment.</Typography>
         </div>
       </div>
       <div className="component">
         <div className="title-box">
-          <Typography variant="h6">Component 3</Typography>
+          <Typography fontWeight='bold'>With respect to the Appellate Public Prosecution, the delay is two months:</Typography>
         </div>
         <div className="text-box">
-          <Typography variant="body2">This is the content of Component 3.</Typography>
+          <Typography variant="body2">As of the date of issuance of the judgment.</Typography>
         </div>
       </div>
     </div>

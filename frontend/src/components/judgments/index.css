@@ -17,12 +17,15 @@
     margin-right: 2rem;
     font-weight: bold;
     padding: 10px;
+    height: 80px;
+    width: 300px;
 }
 
 .text-box {
     background-color: #D78B48;
     margin-left: 2rem;
     padding: 10px;
+    height: 70px;
 }
 
 /* 
