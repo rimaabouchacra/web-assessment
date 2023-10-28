@@ -27,7 +27,7 @@ const Violation = () => {
                <div className='boxx'>
                  <div className='circle'>1</div>
                    <Box className='bold'>
-                     <Typography variant="body2" component="div" className='textt'>
+                     <Typography variant="body2" component="div" fontWeight="bold">
                       Imprisonment, preventive detention or a fine of more than five hundred thousand Lebanese pounds.
                      </Typography>
                   </Box>
