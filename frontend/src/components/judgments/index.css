@@ -1,3 +1,34 @@
 .icon-note{
     margin-right: 0.5rem;
 }
+
+.row {
+    display: flex;
+}
+
+.component {
+    flex: 1;
+    margin: 10px;
+    text-align: center;
+}
+
+.title-box {
+    border: 3px solid #D78B48;
+    margin-right: 2rem;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.text-box {
+    background-color: #D78B48;
+    margin-left: 2rem;
+    padding: 10px;
+}
+
+/* 
+.title-box,
+.text-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */

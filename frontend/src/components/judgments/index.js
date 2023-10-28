@@ -2,6 +2,8 @@ import React from 'react';
 import Typography from '@mui/material/Typography';
 import note from "../../images/note.png";
 import './index.css';
+import Grid from '@mui/material/Grid';
+import Paper from '@mui/material/Paper';
 
 const Judgment = () => {
 
@@ -21,6 +23,33 @@ const Judgment = () => {
           out any new investigations it deems appropriate...
         </Typography>
       </div><br />
+
+      <div className="row">
+      <div className="component">
+        <div className="title-box">
+          <Typography variant="h6">Component 1</Typography>
+        </div>
+        <div className="text-box">
+          <Typography variant="body2">This is the content of Component 1.</Typography>
+        </div>
+      </div>
+      <div className="component">
+        <div className="title-box">
+          <Typography variant="h6">Component 2</Typography>
+        </div>
+        <div className="text-box">
+          <Typography variant="body2">This is the content of Component 2.</Typography>
+        </div>
+      </div>
+      <div className="component">
+        <div className="title-box">
+          <Typography variant="h6">Component 3</Typography>
+        </div>
+        <div className="text-box">
+          <Typography variant="body2">This is the content of Component 3.</Typography>
+        </div>
+      </div>
+    </div>
     </div>
   );
 };
