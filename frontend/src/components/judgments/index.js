@@ -90,12 +90,7 @@ const Judgment = () => {
      
       </div>
       
-      {/* <div className='option'>
-        <Typography variant="body1" fontWeight='bold'>
-         Decision of the Court of Appeal
-        </Typography>
-        
-      </div> */}
+      
       <div className="centered-container">
       
       

@@ -1,4 +1,5 @@
 import Definition from "../../components/definition";
+import Footer from "../../components/footer";
 import Header from "../../components/header";
 import Judgment from "../../components/judgments";
 import Jurisdiction from "../../components/jurisdiction";
@@ -15,6 +16,7 @@ const Main=()=>{
           <Jurisdiction/>
           <Violation/>
           <Judgment/>
+          <Footer/>
         </div>
     )
 }
