@@ -1,6 +1,11 @@
 {
   "navbar.arabic": "العربية",
-  "navbar.english": "الإنجليزية"
-  
+  "navbar.english": "الإنجليزية",
+
+  "header.title_ar": "محكمة الاستئناف الجزائية",
+  "header.subtitle_ar": "دليل شامل عن دور ووظائف محكمة الاستئناف الجزائية "
+
+
+
 
 }

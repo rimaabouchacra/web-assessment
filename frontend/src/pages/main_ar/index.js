@@ -35,7 +35,7 @@ const MainAr = () => {
   return (
     <div>
       <Navbar activePage={t('navbar.arabic')} />
-      <Header />
+      <Header/>
       <MenuBar />
       <Definition />
       <Jurisdiction />
