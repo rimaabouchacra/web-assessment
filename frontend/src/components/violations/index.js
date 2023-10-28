@@ -49,7 +49,7 @@ const Violation = () => {
                  <div className='boxx'>
                    <div className='circle'>3</div>
                      <Box>
-                      <Typography variant="body2" component="div" className='textt'>
+                      <Typography variant="body2" component="div" fontWeight="bold">
                       Revocation of defense stipulated in Article 73 of the Criminal Procedures Code.
                       </Typography>
                     </Box>
