@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin: 1rem;
+}
+
+.boxx {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 50%;
+    width: 300px;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #D78B48;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+    font-weight: bold;
+}
+
+.textt {
+    margin: 0;
+    
+}
