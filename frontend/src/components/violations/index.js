@@ -1,6 +1,6 @@
 import React from 'react';
 import Typography from '@mui/material/Typography';
-import Paper from '@mui/material/Paper';
+import balance from '../../images/balance.jpg'
 import Box from '@mui/material/Box';
 import search from '../../images/search.png'
 import './index.css';
@@ -20,7 +20,7 @@ const Violation = () => {
           The Court of Appeal considers the appeal of the judgments issued by the Criminal Single Judge in the <br /> cases of violations, provided that they shall be on:
         </Typography>
       </div><br />
-        <div content-img>
+        <div className='content-img' >
             <div> 
 
              <div className='container'>
@@ -68,7 +68,7 @@ const Violation = () => {
                 </div> 
             </div>
 
-            <img src="" alt="" />
+            <img className='balance' src={balance} alt="" />
 
 
         </div>
