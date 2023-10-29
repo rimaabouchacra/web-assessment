@@ -29,7 +29,7 @@
 - For persistent storage, the web page uses Firebase firestore to store data.
 - React-router is used for different language paths
 - i18n is used for multiple language support.
-- Mui (material ui) is used library for styled components. 
+- Mui (material ui) library  is used for styled components. 
 - Flaticon is used for every icon
 
 
@@ -62,3 +62,6 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    cd frontend
    npm start
+
+
+Now, you should be able to run the project locally and explore its features.
