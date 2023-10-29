@@ -10,3 +10,8 @@
 | Section1  | Section2 |  Section3 
 | ---| ---| ---| 
 | ![Landing](./readme/demo/wireframe1.PNG) | ![fsdaf](./readme/demo/wireframe3.PNG) | ![fsdaf](./readme/demo/wireframe4.PNG) |
+
+### Mockups
+| Header  | Definition| Violations |
+| ---| ---| ---|
+| ![Landing](./readme/demo/mock1.PNG) | ![fsdaf](./readme/demo/mock2.PNG) | ![fsdaf](./readme/demo/mock3.PNG) |
