@@ -7,6 +7,6 @@
 > I designed this page using wireframes and mockups, iterating on the design until I reached the ideal layout for easy navigation and a seamless user experience.
 
 ### Wireframes
-| Section1  | Section2 |  Section3 | Section4 | Section 5
-| ---| ---| ---| ---| ---|
-| ![Landing](./readme/demo/wireframe1.PNG) | ![fsdaf](./readme/demo/wireframe2.PNG) | ![fsdaf](./readme/demo/wireframe3.PNG) | [fsdaf](./readme/demo/wireframe4.PNG) | [fsdaf](./readme/demo/wireframe5.PNG) |
+| Section1  | Section2 |  Section3 
+| ---| ---| ---| 
+| ![Landing](./readme/demo/wireframe1.PNG) | ![fsdaf](./readme/demo/wireframe3.PNG) | ![fsdaf](./readme/demo/wireframe4.PNG) |
