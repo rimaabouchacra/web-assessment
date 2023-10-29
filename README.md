@@ -19,9 +19,11 @@
 > Using the wireframes and mockups I designed, I implemented this webpage
 
 ### User Screens (web)
-| video
-| ---|  
-| ![fsdaf](./readme/demo/video.gif) |
+
+| Video  | Register screen 
+| ---| 
+| ![fsdaf](./readme/demo/video.gif) 
+
 
 - This project uses ReactJS for the frontend. ReactJS is a popular JavaScript library for building user interfaces.
 - For persistent storage, the web page uses Firebase firestore to store data.
@@ -29,3 +31,34 @@
 - i18n is used for multiple language support.
 - Mui (material ui) is used library for styled components. 
 - Flaticon is used for every icon
+
+
+> To set up this page, follow these steps:
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Clone the project repository
+   ```sh
+   git clone https://github.com/rimaabouchacra/web-assessment.git
+   ```
+2. For React Install NPM packages
+   ```sh
+   cd web assessment
+   cd frontend
+   npm install
+   ```
+3. Start the server for React:
+
+   ```sh
+   cd frontend
+   npm start
