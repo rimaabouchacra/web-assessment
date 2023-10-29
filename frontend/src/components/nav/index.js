@@ -6,6 +6,7 @@ import logo from '../../images/logo.png';
 import './index.css';
 
 const Navbar = () => {
+  
   const { t, i18n } = useTranslation();
   const navigate = useNavigate();
 
