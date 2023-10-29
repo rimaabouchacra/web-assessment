@@ -20,7 +20,7 @@
 
 ### User Screens (web)
 
-| Video  | Register screen 
+| Video  
 | ---| 
 | ![fsdaf](./readme/demo/video.gif) 
 
