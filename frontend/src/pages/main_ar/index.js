@@ -1,23 +1,3 @@
-// import React from 'react';
-// import { useTranslation } from 'react-i18next'; // Import useTranslation
-
-// import Navbar from '../../components/nav';
-
-
-// const MainAr = () => {
-//   const { t } = useTranslation(); // Use useTranslation hook
-
-//   return (
-//     <div>
-//       <Navbar activePage={t('Arabic')} /> {/* Set activePage to Arabic */}
-      
-//     </div>
-//   );
-// };
-
-// export default MainAr;
-
-
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import Definition from '../../components/definition';
